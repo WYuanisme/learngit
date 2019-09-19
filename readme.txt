@@ -1,2 +1,2 @@
 git is a distribute version control system.
-git id a free soft.
+git id a free soft distributed under the GPL.
